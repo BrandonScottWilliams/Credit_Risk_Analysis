@@ -13,27 +13,48 @@ The purpose of the analysis is to train and evaluate supervised learning models 
   ![image](https://user-images.githubusercontent.com/99148657/178123094-2a7d67bf-0ef9-47bb-ad4c-ee87565c880d.png)
 
 ### SMOTE
-* Point 2
+* balanced accuracy score  0.636%
+* Low Risk Precision 1
+* Low Risk Recall 0.66
+* High Risk Precision 0.01
+* High Risk Recall 0.61
+
 
   ![image](https://user-images.githubusercontent.com/99148657/178123127-ec718d5a-b98e-4314-8206-20307cb3a61d.png)
 
 ### Cluster Centroids
-* Point 3
+* Balanced accuracy score  0.636%
+* Low Risk Precision 1  
+* Low Risk Recall 0.45
+* High Risk Precision 0.00
+* High Risk Recall 0.58
 
   ![image](https://user-images.githubusercontent.com/99148657/178123147-adcd5bc3-4248-4ea3-8186-0285ed665b02.png)
 
 ### SMOTEENN
-* Point 4
+* Balanced accuracy score  0.517%
+* Low Risk Precision 1   
+* Low Risk Recall 0.57
+* High Risk Precision 0.01
+* High Risk Recall 0.75
 
   ![image](https://user-images.githubusercontent.com/99148657/178123160-4c48b3b4-d499-41e4-b42b-711d62e1ffee.png)
 
 ### BalancedRandomForestClassifier
-* Point 5
+* Balanced accuracy score  0.788%
+* Low Risk Precision 1  
+* Low Risk Recall 0.91
+* High Risk Precision 0.04
+* High Risk Recall 0.67
 
   ![image](https://user-images.githubusercontent.com/99148657/178123198-5bfd58b7-3783-42b3-876b-d6be0e0ab9ff.png)
 
 ### EasyEnsembleClassifier
-* Point 6
+* Balanced accuracy score  0.925%
+* Low Risk Precision  1 
+* Low Risk Recall 0.94
+* High Risk Precision 0.07
+* High Risk Recall 0.91
 
   ![image](https://user-images.githubusercontent.com/99148657/178123206-ca94d48f-4f8f-4d0a-8614-07624ed4821a.png)
 
