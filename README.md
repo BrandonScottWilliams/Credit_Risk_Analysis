@@ -2,7 +2,6 @@
 ## Overview of the analysis
 The purpose of the analysis is to train and evaluate supervised learning models to help with predicting whether someone is a high or low credit risk. 
 ## Results
-describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 ### Random Over Sampler
 *Point 1
 
