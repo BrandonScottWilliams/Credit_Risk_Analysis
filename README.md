@@ -3,7 +3,12 @@
 The purpose of the analysis is to train and evaluate supervised learning models to help with predicting whether someone is a high or low credit risk. 
 ## Results
 ### Random Over Sampler
-*Point 1
+* balanced accuracy score  0.595
+* Low Risk Precision 1   
+* Low Risk Recall 0.63
+* High Risk Precision 0.01
+* High Risk Recall 0.56
+
 
   ![image](https://user-images.githubusercontent.com/99148657/178123094-2a7d67bf-0ef9-47bb-ad4c-ee87565c880d.png)
 
