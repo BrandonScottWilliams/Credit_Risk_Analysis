@@ -59,7 +59,7 @@ The purpose of the analysis is to train and evaluate supervised learning models 
   ![image](https://user-images.githubusercontent.com/99148657/178123206-ca94d48f-4f8f-4d0a-8614-07624ed4821a.png)
 
 ## Summary
-The analysis shows that all models failed to show strength in classifying high risk accurately and had accuracy scores rannging between 0.5 and 0.9. The most accurate model would be Easy Ensembler Classifier which had the least number of false predictions by a significant level. It also showed the highest accuracy score at 0.925. In cases like credit risk, the lending agency wants to choose a model that minimizes the number of incorrect assessments.
+The analysis shows that all models failed to show strength in classifying high risk accurately and had accuracy scores rannging between 0.5 and 0.9. The most accurate model would be Easy Ensembler Classifier which had the least number of false predictions by a significant level. It also showed the highest accuracy score at 0.925. In cases like credit risk, the lending agency wants to choose a model that minimizes the number of incorrect predictions.
 
 
 
